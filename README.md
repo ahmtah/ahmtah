@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ahmtah
+- 👀 stuff
+- 🌱 I know JS, NODE.JS, HTML. Still learning CSS
+- 📫 ahmtah.19@hphigh.co.uk
